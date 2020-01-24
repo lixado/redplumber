@@ -1,2 +1,2 @@
 # redplumber
-My first java game
+My first java game using MVC
